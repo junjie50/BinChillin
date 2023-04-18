@@ -1,4 +1,4 @@
-![Alt text](assets/main_bin.png?raw=true "Photo of rendered concept")
+<img src='assets/main_bin.png' width='250'>
 
 ![Alt text](assets/main_bin.png?raw=true "Photo of bin")
 # **BinChillin**:
