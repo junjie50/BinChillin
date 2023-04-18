@@ -4,8 +4,8 @@ This is a project showcase for my Design Thinking Innovation course (03.007) pro
 Credits to my group members: Pankti, Ryan, Jia Zhen and Rachel for working together with me.
 Credits to Prof Javier and Hunn Wai for the feedback to improve the product.
 
-Below is for product showcase and does not contain as code explanation.
-However, I invite you to join me for the journey!
+Below is for product showcase and does not contain any code explanation.
+However, I still invite you to join me through the exciting journey!
 
 # **BinChillin**:
 <p align="center">
@@ -146,3 +146,7 @@ For the user validation, we received majority positve reviews. This indicated th
 
 # **Conclusion**
 Design Thinking Innovation course is not a technical course. It teaches us how to be creative design innovators to create solutions after a detailed analysis of a problem.
+
+<p align="center">
+  <img width="500" src='assets/5cm-8.png'>
+</p>
