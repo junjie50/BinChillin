@@ -1,5 +1,11 @@
 # **Disclaimer**:
-This is a project showcase for my Design Thinking Innovation course project during my university education at SUTD. This is my first actual experience with embeded software programming. The projected utilized both hardware and software knowledge for prototyping. See below for the progress of the project.
+This is a project showcase for my Design Thinking Innovation course (03.007) project during my university education at SUTD. The projected utilized both hardware and software knowledge for prototyping. See below for the progress of the project.
+
+Credits to my group members: Pankti, Ryan, Jia Zhen and Rachel for working together with me.
+Credits to Prof Javier and Hunn Wai for the feedback to improve the product.
+
+Below is for product showcase and does not contain as code explanation.
+However, I invite you to join me for the journey!
 
 # **BinChillin**:
 <p align="center">
