@@ -1,15 +1,18 @@
 # **Disclaimer**:
-This is a project showcase for my Design Thinking project during my university education at SUTD. This is my first actual experience with embeded software programming. It utilizes logic control to ensure the Arduino code flows properly during operation. See below for the progress of the project.
+This is a project showcase for my Design Thinking Innovation course project during my university education at SUTD. This is my first actual experience with embeded software programming. The projected utilized both hardware and software knowledge for prototyping. See below for the progress of the project.
 
+# **BinChillin**:
 <p align="center">
   <img width="500" src='assets/main_bin.png'>
+</p>
+<p align="center">
+  Image of the bin
 </p>
 
 <p align="center">
   <img width="500" src='assets/slider2.png'>
 </p>
 
-# **BinChillin**:
 BINCHILLIN is a next generation smart IOT bin. The bin can add an interactive element and gamify throwing of the trash. While inspiring people to clean up after themselves, it utilizes light to add colours to create inviting and relaxing spaces for the user. The bin encompasses the concept that something mundane and often overlooked like the rubbish bin can be transformed into something that is beautiful for the user using design thinking and analysis.
 
 # **Context**:
