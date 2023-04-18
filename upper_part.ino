@@ -6,15 +6,15 @@
 #include "addons/RTDBHelper.h"
 
 //################################ WIFI CONSTANTS ################################ 
-const char* SSID = "Junjie";
-const char* PASSWORD = "88888888";
+const char* SSID = "";
+const char* PASSWORD = "";
 
 //################################ DATABASE CONSTANTS ################################ 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyBoyOLU7Jwyx8QSuiY8ssMOjfBOtQu2TKo"
+#define API_KEY ""
 
 // Insert RTDB URLefine the RTDB URL */
-#define DATABASE_URL "https://mycdttesting-default-rtdb.asia-southeast1.firebasedatabase.app" 
+#define DATABASE_URL "" 
 
 //Define Firebase Data object
 FirebaseData fbdo;
