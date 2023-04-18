@@ -4,8 +4,9 @@ This is a project showcase for my Design Thinking Innovation course (03.007) pro
 Credits to my group members: Pankti, Ryan, Jia Zhen and Rachel for working together with me.
 Credits to Prof Javier and Hunn Wai for the feedback to improve the product.
 
-Below is for product showcase and does not contain any code explanation.
-However, I still invite you to join me through the exciting journey!
+For the softwareportion, it consists of code for the bottom and top portion of the bin. The are labelled 'lower_part.ino' and 'upper_part.ino' respectively. For future SUTDents, good luck for your DTI project and hope you find this source code useful. The code contains some unused part such as Wifi connection which we decided not to add in the final product.
+
+Below is for product showcase and does not contain any code explanation. However, I still invite you to join me through the exciting journey!
 
 # **BinChillin**:
 <p align="center">
